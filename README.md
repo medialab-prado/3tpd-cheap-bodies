@@ -6,4 +6,6 @@ The upcoming Olympic Games in Rio de Janeiro increase the risk of prostitution, 
 
 I propose interactive data visualisation that will explore the multiple faces of inequality in sex tourism. This could be widely used by global media covering the Olympic Games as well as by governments and those in tourist industry who wish to dissuade travellers from the temptations of cheap sex.
 
+Check the [public website](https://medialab-prado.github.io/3tpd-cheap-bodies/web/index.html)
+
 ![](http://comunidad.medialab-prado.es/sites/default/files/styles/featured_home/public/419517894_4424f74972_o.jpg?itok=nZ0PIXXc)
